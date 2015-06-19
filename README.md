@@ -1,0 +1,2 @@
+# beanstalk
+Elastic beanstalk script
