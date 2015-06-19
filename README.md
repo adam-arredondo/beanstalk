@@ -14,6 +14,7 @@ In the .ebextensions directory we provide a template for creating such a configu
 You only need to adapt the key/value pairs for your RUXIT_TENANT and RUXIT_TOKEN.
 Please go to your Ruxit dashboard, open the menu and select "Monitor another host". The download link in the Linux section contains both, your TENANT (the first subdomain) and your TOKEN (last part of URL).
 
+You don't need to download or touch beanstalk_ruxit_install.sh - Beanstalk grabs this file automatically while setting up the environment.
 
 CONTACT
 -------
